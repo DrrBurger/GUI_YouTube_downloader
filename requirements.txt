@@ -1,0 +1,9 @@
+altgraph==0.17.3
+customtkinter==5.1.3
+darkdetect==0.8.0
+macholib==1.16.2
+modulegraph==0.19.3
+py2app==0.28.5
+pyinstaller==5.10.1
+pyinstaller-hooks-contrib==2023.2
+pytube==15.0.0
